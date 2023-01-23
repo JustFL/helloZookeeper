@@ -1,4 +1,4 @@
-package com.javbus;
+package com.javbus.demo;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
